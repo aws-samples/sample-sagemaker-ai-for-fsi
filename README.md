@@ -1,11 +1,6 @@
-## My Project
+### SageMaker AI for Financial Services Workshop
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repo contains notebook files that are intended to be used in conjunction with the **SageMaker AI for Financial Services** workshop.
 
 ## Security
 
